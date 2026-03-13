@@ -1,4 +1,6 @@
-"""Legacy config module placeholder.
+LM_STUDIO_BASE_URL = "http://localhost:1234/v1"
+LM_STUDIO_API_KEY = "lm-studio"
+LM_STUDIO_MODEL = "qwen/qwen3.5-9b"
 
-Planned source of truth: app/core/config.py
-"""
+
+
