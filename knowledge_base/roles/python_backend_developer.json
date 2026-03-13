@@ -1,0 +1,9 @@
+{
+  "placeholder": true,
+  "description": "Role definition schema will be added later.",
+  "role_name": "python_backend_developer",
+  "notes": [
+    "Only file naming and folder structure are defined at this stage.",
+    "Interview content, rubric, and contexts will be implemented later."
+  ]
+}
