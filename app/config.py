@@ -1,6 +1,5 @@
-LM_STUDIO_BASE_URL = "http://localhost:1234/v1"
-LM_STUDIO_API_KEY = "lm-studio"
-LM_STUDIO_MODEL = "qwen/qwen3.5-9b"
+"""Compatibility wrapper around the root configuration module."""
 
+from config import LM_STUDIO_API_KEY, LM_STUDIO_BASE_URL, LM_STUDIO_MODEL
 
-
+__all__ = ["LM_STUDIO_BASE_URL", "LM_STUDIO_API_KEY", "LM_STUDIO_MODEL"]

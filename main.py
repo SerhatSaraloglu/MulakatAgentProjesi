@@ -1,4 +1,4 @@
-from lmstudio_client import generate_response
+from app.llm.providers.lm_studio.client import generate_response
 
 def main():
     system_prompt = "You are a professional HR interviewer."

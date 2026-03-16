@@ -1,5 +1,5 @@
 from openai import OpenAI
-from config import LM_STUDIO_BASE_URL, LM_STUDIO_API_KEY, LM_STUDIO_MODEL
+from app.config import LM_STUDIO_API_KEY, LM_STUDIO_BASE_URL, LM_STUDIO_MODEL
 
 client = OpenAI(
     base_url=LM_STUDIO_BASE_URL,
