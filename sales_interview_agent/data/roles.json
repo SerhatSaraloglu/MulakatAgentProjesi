@@ -1,0 +1,19 @@
+{
+  "sales_consultant": {
+    "title": "Satış Danışmanı",
+    "description": "Perakende ve mağaza satış süreçlerinde müşteri iletişimi, ihtiyaç analizi, ürün sunumu, itiraz yönetimi ve satış kapatma becerilerini ölçen mülakat rolü.",
+    "topics": [
+      "müşteri karşılama",
+      "ihtiyaç analizi",
+      "ürün sunumu",
+      "ikna becerisi",
+      "itiraz yönetimi",
+      "zor müşteri yönetimi",
+      "satış kapatma",
+      "müşteri memnuniyeti",
+      "hedef odaklı çalışma",
+      "takım çalışması"
+    ],
+    "knowledge_file": "sales_consultant.txt"
+  }
+}

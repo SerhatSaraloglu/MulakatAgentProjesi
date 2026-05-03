@@ -1,0 +1,11 @@
+.venv/
+.env
+*.env
+__pycache__/
+*.py[cod]
+
+vectordb/
+sales_interview_agent/vectordb/
+
+.DS_Store
+.vscode/
